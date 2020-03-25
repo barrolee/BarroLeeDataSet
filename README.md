@@ -34,8 +34,6 @@ New data sets on long-run enrollment ratios and educational attainment are now a
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-
 
 © 2020 by Robert J. Barro and Jong-Wha Lee. All rights reserved.
 For the copyrights of all the images used in this site, click [here.](http://www.barrolee.com/picright)
