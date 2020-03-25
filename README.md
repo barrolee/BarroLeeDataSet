@@ -8,6 +8,8 @@ Please cite our data as follows: Barro, Robert and Jong-Wha Lee, 2013, "A New Da
 
 This work was supported by the Korea Research Foundation(KRF-2006-342-B00010).
 
+
+
 2010 07 July Update
 
 2010 12 Nov. Update
@@ -28,6 +30,7 @@ This work was supported by the Korea Research Foundation(KRF-2006-342-B00010).
 
 
 New data sets on long-run enrollment ratios and educational attainment are now available!
+
 
 
 
