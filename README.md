@@ -10,14 +10,14 @@
 <p>This work was supported by the Korea Research Foundation(KRF-2006-342-B00010).</p>
 <ul>
 <li><a href="UpdateNote/2010July.md">2010 07 July Update</a></li>
-<li>2010 12 Nov. Update</li>
-<li>2011 04 Sept. Update: The new version (1.2) of data set now available!</li>
+<li><a href="UpdateNote/2010Nov.md">2010 12 Nov. Update</a></li>
+<li><a href="UpdateNote/2011Sept.md">2011 04 Sept. Update</a>: The new version (1.2) of data set now available!</li>
 <li>2012 02 Oct. Update: The Appendix Notes on data sources available.</li>
-<li>2013 09 April Update: The new version (1.3) of data set now available!</li>
-<li>2014 30 June Update: The new version (2.0) of data set now available!</li>
-<li>2014 30 Aug. Update: Correction of estimates for Finland in 2005 and 2010.</li>
-<li>2016 4 Feb. Update: Correction of estimates for China.</li>
-<li>2018 4 June Update: Correction of estimates for 10 countries.</li>
+<li><a href="UpdateNote/2013April.md">2013 09 April Update</a>: The new version (1.3) of data set now available!</li>
+<li><a href="UpdateNote/2014June.md">2014 30 June Update</a>: The new version (2.0) of data set now available!</li>
+<li><a href="UpdateNote/2014Aug.md">2014 30 Aug. Update</a>: Correction of estimates for Finland in 2005 and 2010.</li>
+<li><a href="UpdateNote/2016Feb.md">2016 4 Feb. Update</a>: Correction of estimates for China.</li>
+<li><a href="UpdateNote/2018June.md">2018 4 June Update</a>: Correction of estimates for 10 countries.</li>
 </ul>
 <p>New data sets on long-run enrollment ratios and educational attainment are now available!</p>
 <p>© 2020 by Robert J. Barro and Jong-Wha Lee. All rights reserved.</p>
