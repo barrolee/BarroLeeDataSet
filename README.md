@@ -22,7 +22,7 @@ This work was supported by the Korea Research Foundation(KRF-2006-342-B00010).
 New data sets on long-run enrollment ratios and educational attainment are now available!
 
  - About Dataset
-	 - Introduction
+	 - [Introduction](Introduction.md)
 	 - Definition of Variables
 	 - Data Sources
 	 - List of Countries
