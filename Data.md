@@ -1,7 +1,7 @@
 ﻿
 # Data
 
-Download full data set (146 countries) by 5-year age group or 15 years, 25years, and over in 5-year interval (1950-2010) in xls, csv, or dta format.
+Download full data set (146 countries) by 5-year age group or 15 years and over, and 25 years and over in 5-year interval (1950-2010) in xls, csv, or dta format.
 
 **Education Attainment for Population Aged 15 and Over**
   
