@@ -1,5 +1,6 @@
 ﻿
-# Welcome to the Barro-Lee Website!
+# Barro-Lee Educational Attainment Dataset
+Welcome to the Barro-Lee Website!
 
 ![](/main_bnw.jpg)
 
