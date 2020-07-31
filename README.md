@@ -21,7 +21,7 @@ This work was supported by the Korea Research Foundation(KRF-2006-342-B00010).
  - [2016 4 Feb. Update](UpdateNote/2016Feb.md): Correction of estimates for China.
  - [2018 4 June Update](UpdateNote/2018June.md): Correction of estimates for 10 countries.
 
-New data sets on long-run enrollment ratios and educational attainment are now available!
+[New data sets](/LongTermData.md) on long-run enrollment ratios and educational attainment are now available!
 
  - About Dataset
 	 - [Introduction](/Aboutdataset/Introduction.md)
@@ -33,7 +33,7 @@ New data sets on long-run enrollment ratios and educational attainment are now a
  - Barro-Lee Data
 	 - [Download](/Data.md)
 	 - [Notes](/Note.md)
- - Long-term Data
+ - [Long-term Data](/LongTermData.md)
  - Additional Resources
  
 © 2020 by Robert J. Barro and Jong-Wha Lee. All rights reserved.
