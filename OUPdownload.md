@@ -4,7 +4,7 @@ By utilizing the estimates of  [historical enrollment ratios](/Enroll.md) from t
 
 Combining this data set with existing data from  [Barro and Lee](http://www.barrolee.com/) (2013), the data set presents estimates of educate ional attainment, classified by age group (15–24, 25–64, and 15–64) and by gender, for 89 countries from 1870 to 2010 at five-year intervals.
 
-Download the list of  [variables](/OUP/OUPDefi.md)  and [countries](/OUT/OUPList.md)  in the dataset.
+Download the list of  [variables](/OUP/OUPDefi.md)  and [countries](/OUP/OUPList.md)  in the dataset.
 
 **Full Dataset**
 
