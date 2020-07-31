@@ -18,11 +18,15 @@ The educational attainment data from 1950 to 2010 are developed from the Barro-L
 
 Download  [the figures](/LeeLeeFigure.md) for trend in school enrollments and total years of schooling, disaggregated by education level and gender, for individual countries.
 
+
+
 **Previous Version of Data Sets on Long-Run Educational Attainment**
 
 This data set is accompanying the book by Barro, Robert J. and Jong-Wha Lee, _[Education Matters: Global Schooling Gains from the 19th to the 21st Century](http://www.amazon.com/Education-Matters-Global-Schooling-Century/dp/0199379238/ref=sr_1_1?ie=UTF8&qid=1435965474&sr=8-1&keywords=Education+Matters%3A+Global+Schooling+Gains+from+the+19th+to+the+21st+Century)_ (Oxford University Press, 2015).
 
-Download full  [data sets](/OUP/oup_download_b.htm)  on estimated educational attainment for the total, female and male populations from 1870 to 2010. The estimates are available in five-year intervals for 89 countries.
+Download full  [data sets](/OUP/OUPdownload.md)  on estimated educational attainment for the total, female and male populations from 1870 to 2010. The estimates are available in five-year intervals for 89 countries.
+
+
 
 **Data Sets on Projections of Educational Attainment**
 
