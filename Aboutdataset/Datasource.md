@@ -5,4 +5,4 @@ The benchmark figures on school attainment (621  census/survey observations) use
 
 For total population aged 15 and over, 191 countries have at least 1 observation, and 112 countries have 3 or more observations. Most of our original data are from full censuses. These data points are used as benchmark figures on educational attainment. For the estimation of missing observations, we use enrolment rates and population by age group from the UIS database and UN population database, respectively. We have constructed complete estimates for the 146 countries.
 
-[Appendix Notes](/Aboutdataset/Appendix Notes_V.1.0.pdf) provide information on data sources for individual countries.
+[Appendix Notes](/Aboutdataset/Appendix%20Notes_V.1.0.pdf) provide information on data sources for individual countries.
