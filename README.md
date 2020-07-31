@@ -34,7 +34,7 @@ This work was supported by the Korea Research Foundation(KRF-2006-342-B00010).
 	 - [Download](/Data.md)
 	 - [Notes](/Note.md)
  - [Long-term Data](/LongTermData.md)
- - Additional Resources
+ - [Additional Resources](/Related.md)
  
 © 2020 by Robert J. Barro and Jong-Wha Lee. All rights reserved.
 
