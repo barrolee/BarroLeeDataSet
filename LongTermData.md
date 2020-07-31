@@ -8,7 +8,7 @@ This data set is accompanying the paper by Lee, Jong-Wha and Hanol Lee, 2016, â€
 
 Download the list of [variables](/LeeLee/LeeLee_Variables.pdf) and [countries](/LeeLee/LeeLee_CountryList.pdf) in this education dataset.
 
-Download [full data sets](/LeeLee/DataLeeLee.md) on estimated school enrollment ratios from 1820 to 2010 and estimated educational attainment for the total, female and male populations from 1870 to 2010. The estimates are available in five-year intervals for 111 countries.
+Download [full data sets](/DataLeeLee.md) on estimated school enrollment ratios from 1820 to 2010 and estimated educational attainment for the total, female and male populations from 1870 to 2010. The estimates are available in five-year intervals for 111 countries.
 
 Data sources of census/survey [enrollment ratios](/LeeLee/LeeLee_enroll_source.pdf) and [years of school establishment](/LeeLee/LeeLee_AppTabA.pdf) are also available.
 
