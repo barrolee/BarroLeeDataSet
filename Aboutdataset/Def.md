@@ -2,8 +2,9 @@
 # Definition of Variables
 
 The full dataset contains the following variables:
-|Variable|Description  |
+|||
 |--|--|
+|**Variable**|**Description**  |
 | BLcode | Barro-Lee Country Code |
 | WBcode| World Bank Country Code| 
 | region_code| Region Code| 
