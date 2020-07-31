@@ -4,7 +4,7 @@
 
 **Data Sets on Long-Run Enrollment Ratios and Educational Attainment**
 
-This data set is accompanying the paper by Lee, Jong-Wha and Hanol Lee, 2016, “[Human Capital in the Long Run,](https://doi.org/10.1080/13547860.2018.1515002)” _Journal of Development Economics_, vol. 122, pp. 147-169.
+This data set is accompanying the paper by Lee, Jong-Wha and Hanol Lee, 2016, “[Human Capital in the Long Run,](https://doi.org/10.1016/j.jdeveco.2016.05.006)” _Journal of Development Economics_, vol. 122, pp. 147-169.
 
 Download the list of [variables](/LeeLee/LeeLee_Variables.pdf) and [countries](/LeeLee/LeeLee_CountryList.pdf) in this education dataset.
 
