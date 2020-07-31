@@ -1,9 +1,4 @@
----
-
-
----
-
-<h1 id="april-update">2013 09 April Update</h1>
+# 2013 09 April Updat
 <p>The new version (1.3) is now available!</p>
 <p>This version (1.3) of the Barro-Lee data set has made several changes to the earlier version (1.2). The changes affected various countries in the sample, but they are not significant in magnitude for most cases.</p>
 <p>The changes are:</p>
