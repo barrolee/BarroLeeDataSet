@@ -5,7 +5,7 @@
 
 To download the Barro-Lee Educational Attainment Data from 1950 to 2010, visit the Data Query page. Data by 5-year age group and for '15 years and over' and '25 years and over' for cross-country or individual country analysis can be easily retrieved through the Data Query page 
 
-Visit the About Dataset page, for a list of [variables](/Aboutdataset/Def.md), [countries](/Aboutdataset/Listcountries.md) in the updated dataset, [data sources](/Aboutdataset/Datasource.md), a brief description of estimation [methodology](/Aboutdataset/Methodology.md), and a brief history about the Barro-Lee Dataset.
+Visit the About Dataset page, for a list of [variables](/Aboutdataset/Def.md), [countries](/Aboutdataset/Listcountries.md) in the updated dataset, [data sources](/Aboutdataset/Datasource.md), a brief description of estimation [methodology](/Aboutdataset/Methodology.md), and a brief [history](/Aboutdataset/History.md) about the Barro-Lee Dataset.
 
 Please cite our data as follows: Barro, Robert and Jong-Wha Lee, 2013, ["A New Data Set of Educational Attainment in the World, 1950-2010."](https://doi.org/10.1016/j.jdeveco.2012.10.001) *Journal of Development Economics*, vol 104, pp.184-198.
 
@@ -29,7 +29,7 @@ New data sets on long-run enrollment ratios and educational attainment are now a
 	 - [Data Sources](/Aboutdataset/Datasource.md)
 	 - [List of Countries](/Aboutdataset/Listcountries.md)
 	 - [Methodology](/Aboutdataset/Methodology.md)
-	 - History
+	 - [History](/Aboutdataset/History.md)
  - Barro-Lee Data
 	 - Download
 	 - Notes
@@ -38,6 +38,8 @@ New data sets on long-run enrollment ratios and educational attainment are now a
  - Contact us
 
 © 2020 by Robert J. Barro and Jong-Wha Lee. All rights reserved.
+
+For the copyrights of all the images used in this site, click here.
 
 Dataset Last Updated: 2018 June 
 New Long-term Data Sets: 2016 July 
