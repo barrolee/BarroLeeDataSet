@@ -3,7 +3,7 @@
 
 ![](/main_bnw.jpg)
 
-To download the Barro-Lee Educational Attainment Data from 1950 to 2010, visit the Data download page. Data by 5-year age group and for '15 years and over' and '25 years and over' for cross-country can be easily retrieved through the Data download page 
+To download the Barro-Lee Educational Attainment Data from 1950 to 2010, visit the [Data](/Data.md) download page. Data by 5-year age group and for '15 years and over' and '25 years and over' for cross-country can be easily retrieved through the Data download page 
 
 Visit the About Dataset page, for a list of [variables](/Aboutdataset/Def.md), [countries](/Aboutdataset/Listcountries.md) in the updated dataset, [data sources](/Aboutdataset/Datasource.md), a brief description of estimation [methodology](/Aboutdataset/Methodology.md), and a brief [history](/Aboutdataset/History.md) about the Barro-Lee Dataset.
 
@@ -31,7 +31,7 @@ New data sets on long-run enrollment ratios and educational attainment are now a
 	 - [Methodology](/Aboutdataset/Methodology.md)
 	 - [History](/Aboutdataset/History.md)
  - Barro-Lee Data
-	 - Download
+	 - [Download](/Data.md)
 	 - Notes
  - Long-term Data
  - Additional Resources
