@@ -16,7 +16,7 @@ The data set includes two measures of aggregate human capital stock; one is cons
 
 The educational attainment data from 1950 to 2010 are developed from the Barro-Lee Dataset. Please visit the [Barro-Lee data set](http://www.barrolee.com/).
 
-Download  [the figures](/LeeLee/Lee_Lee_LRdata_fig.htm) for trend in school enrollments and total years of schooling, disaggregated by education level and gender, for individual countries.
+Download  [the figures](/LeeLeeFigure.md) for trend in school enrollments and total years of schooling, disaggregated by education level and gender, for individual countries.
 
 **Previous Version of Data Sets on Long-Run Educational Attainment**
 
