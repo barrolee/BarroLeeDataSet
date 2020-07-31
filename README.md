@@ -1,6 +1,8 @@
 ﻿
 # Welcome to the Barro-Lee Website!
 
+![](/main_bnw.jpg)
+
 To download the Barro-Lee Educational Attainment Data from 1950 to 2010, visit the Data Query page. Data by 5-year age group and for '15 years and over' and '25 years and over' for cross-country or individual country analysis can be easily retrieved through the Data Query page 
 
 Visit the About Dataset page, for a list of variables, countries in the updated dataset, data sources, a brief description of estimation methodology, and a brief history about the Barro-Lee Dataset.
