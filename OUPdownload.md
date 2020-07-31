@@ -7,103 +7,65 @@ Combining this data set with existing data from  [Barro and Lee](http://www.barr
 
 Download the list of  [variables](/OUP/OUPDefi.md)  and [countries](/OUT/OUPList.md)  in the dataset.
 
-Full Dataset
+**Full Dataset**
 
 
-Education Attainment for Population Aged 15-64, 1870-2010
+**Education Attainment for Population Aged 15-64, 1870-2010**
 
 Download data for total, female and male population aged 15-64 in dta, xls, or csv format.
 
 Total population, aged 15-64.
 
-[Stata](/OUP/OUP_long_MF1564_v1.dta)
-
-[Excel](/OUP/OUP_long_MF1564_v1.xls)
-
-[csv](/OUP/OUP_long_MF1564_v1.csv)
+[Stata](/OUP/OUP_long_MF1564_v1.dta)  [Excel](/OUP/OUP_long_MF1564_v1.xls) [csv](/OUP/OUP_long_MF1564_v1.csv)
 
 Female population, aged 15-64.
 
-[Stata](/OUP/OUP_long_F1564_v1.dta)
-
-[Excel](/OUP/OUP_long_F1564_v1.xls)
-
-[csv](/OUP/OUP_long_F1564_v1.csv)
+[Stata](/OUP/OUP_long_F1564_v1.dta) [Excel](/OUP/OUP_long_F1564_v1.xls) [csv](/OUP/OUP_long_F1564_v1.csv)
 
 Male population, aged 15-64.
 
-[Stata](/OUP/OUP_long_M1564_v1.dta)
+[Stata](/OUP/OUP_long_M1564_v1.dta) [Excel](/OUP/OUP_long_M1564_v1.xls) [csv](/OUP/OUP_long_M1564_v1.csv)
 
-[Excel](/OUP/OUP_long_M1564_v1.xls)
-
-[csv](/OUP/OUP_long_M1564_v1.csv)
-
-Education Attainment for Population Aged 15-24, 1870-2010
+**Education Attainment for Population Aged 15-24, 1870-2010**
 
 Download data for total, female and male population aged 15-24 in dta, xls, or csv format.
 
-Total population, aged 15-24.
+Total population, aged 15-24. 
 
-[Stata](/OUP/OUP_long_MF1524_v1.dta)
-
-[Excel](/OUP/OUP_long_MF1524_v1.xls)
-
-[csv](/OUP/OUP_long_MF1524_v1.csv)
+[Stata](/OUP/OUP_long_MF1524_v1.dta) [Excel](/OUP/OUP_long_MF1524_v1.xls) [csv](/OUP/OUP_long_MF1524_v1.csv)
 
 Female population, aged 15-24.
 
-[Stata](/OUP/OUP_long_F1524_v1.dta)
-
-[Excel](/OUP/OUP_long_F1524_v1.xls)
-
-[csv](/OUP/OUP_long_F1524_v1.csv)
+[Stata](/OUP/OUP_long_F1524_v1.dta) [Excel](/OUP/OUP_long_F1524_v1.xls) [csv](/OUP/OUP_long_F1524_v1.csv)
 
 Male population, aged 15-24.
 
-[Stata](/OUP/OUP_long_M1524_v1.dta)
+[Stata](/OUP/OUP_long_M1524_v1.dta) [Excel](/OUP/OUP_long_M1524_v1.xls) [csv](/OUP/OUP_long_M1524_v1.csv)
 
-[Excel](/OUP/OUP_long_M1524_v1.xls)
-
-[csv](/OUP/OUP_long_M1524_v1.csv)
-
-Education Attainment for Population Aged 25-64, 1870-2010
+**Education Attainment for Population Aged 25-64, 1870-2010**
 
 Download data for total, female and male population aged 25-64 in dta, xls, or csv format.
 
 Total population, aged 25-64.
 
-[Stata](/OUP/OUP_long_MF2564_v1.dta)
-
-[Excel](/OUP/OUP_long_MF2564_v1.xls)
-
-[csv](/OUP/OUP_long_MF2564_v1.csv)
+[Stata](/OUP/OUP_long_MF2564_v1.dta) [Excel](/OUP/OUP_long_MF2564_v1.xls) [csv](/OUP/OUP_long_MF2564_v1.csv)
 
 Female population, aged 25-64.
 
-[Stata](/OUP/OUP_long_F2564_v1.dta)
-
-[Excel](/OUP/OUP_long_F2564_v1.xls)
-
-[csv](/OUP/OUP_long_F2564_v1.csv)
+[Stata](/OUP/OUP_long_F2564_v1.dta) [Excel](/OUP/OUP_long_F2564_v1.xls) [csv](/OUP/OUP_long_F2564_v1.csv)
 
 Male population, aged 25-64.
 
-[Stata](/OUP/OUP_long_M2564_v1.dta)
+[Stata](/OUP/OUP_long_M2564_v1.dta) [Excel](/OUP/OUP_long_M2564_v1.xls) [csv](/OUP/OUP_long_M2564_v1.csv)
 
-[Excel](/OUP/OUP_long_M2564_v1.xls)
-
-[csv](/OUP/OUP_long_M2564_v1.csv)
-
-Trends in Educational Attainment by Country
-
-
-Average Years of Schooling for Population Aged 15-24, 1870-2010
+**Trends in Educational Attainment by Country
+Average Years of Schooling for Population Aged 15-24, 1870-2010**
 
 Download figures for total, female and male population aged 15-24 in pdf format.
 
 [PDF](/OUP/OUP_long1524_v1.pdf)
 
-Average Years of Schooling for Population Aged 25-64, 1870-2010
+**Average Years of Schooling for Population Aged 25-64, 1870-2010**
 
 Download figures for total, female and male population aged 25-64 in pdf format.
 
