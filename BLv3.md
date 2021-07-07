@@ -19,7 +19,9 @@ We combine these updated estimates for 2015 with the original Barro-Lee data set
 Download full data set (146 countries) by 10-year age group or and aged 15-64 in 5-year interval (1950-2015) in xls, csv, or dta format.
 
 Education Attainment for Population Aged 15-64
+
 Excel csv STATA
 
 Education Attainment by Age Group
+
 Excel csv STATA
