@@ -1,4 +1,4 @@
-﻿# 2021 September  Update: The new update of the Barro-Lee data set is now available.
+***2021 September  Update: The new update of the Barro-Lee data set is now available.***
 
 **Barro-Lee Estimates of Educational Attainment for the Population Aged 15-64 from 1950 to 2015** 
 
