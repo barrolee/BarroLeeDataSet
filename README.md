@@ -12,8 +12,6 @@ Visit the About Dataset page, for a list of [variables](/Aboutdataset/Def.md), [
 
 Please cite our data as follows: Barro, Robert and Jong-Wha Lee, 2013, ["A New Data Set of Educational Attainment in the World, 1950-2010."](https://doi.org/10.1016/j.jdeveco.2012.10.001) *Journal of Development Economics*, vol 104, pp.184-198.
 
-This work was supported by the Korea Research Foundation(KRF-2006-342-B00010).
-
  - [2010 07 July Update](UpdateNote/2010July.md)
  - [2010 12 Nov. Update](UpdateNote/2010Nov.md)
  - [2011 04 Sept. Update](UpdateNote/2011Sept.md): The new version (1.2) of data set now available!
@@ -23,6 +21,8 @@ This work was supported by the Korea Research Foundation(KRF-2006-342-B00010).
  - [2014 30 Aug. Update](UpdateNote/2014Aug.md): Correction of estimates for Finland in 2005 and 2010.
  - [2016 4 Feb. Update](UpdateNote/2016Feb.md): Correction of estimates for China.
  - [2018 4 June Update](UpdateNote/2018June.md): Correction of estimates for 10 countries.
+
+**[2021 September  Update](/BLv3.md): Barro-Lee Estimates of Educational Attainment for the Population Aged 15-64 from 1950 to 2015**
 
 [New data sets](/LongTermData.md) on long-run enrollment ratios and educational attainment are now available!
 
@@ -39,10 +39,10 @@ This work was supported by the Korea Research Foundation(KRF-2006-342-B00010).
  - [Long-term Data](/LongTermData.md)
  - [Additional Resources](/Related.md)
  
-© 2020 by Robert J. Barro and Jong-Wha Lee. All rights reserved.
+© 2021 by Robert J. Barro and Jong-Wha Lee. All rights reserved.
 
 For the copyrights of all the images used in this site, click [here](/ImageCopyright.md).
 
-Dataset Last Updated: 2018 June 
+Dataset Last Updated: 2021 September
 
 New Long-term Data Sets: 2016 July 
