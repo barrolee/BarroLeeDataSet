@@ -24,26 +24,26 @@ Download full data set (146 countries) by 10-year age group or aged 15-64 in 10-
 
 Total population
 
-Excel CSV STATA
+[Excel](/BLData/BL_v3_MF.xls) [CSV](/BLData/BL_v3_MF.csv) [STATA](/BLData/BL_v3_MF.dta)
 
 Female population
 
-Excel CSV STATA
+[Excel](/BLData/BL_v3_F.xls) [CSV](/BLData/BL_v3_F.csv) [STATA](/BLData/BL_v3_F.dta)
 
 Male population
 
-Excel CSV STATA
+[Excel](/BLData/BL_v3_M.xls) [CSV](/BLData/BL_v3_M.csv) [STATA](/BLData/BL_v3_M.dta)
 
 **Education Attainment by Age Group**
 
 Total population
 
-Excel CSV STATA
+[Excel](/BLData/BL_v3_MF1564.xls) [CSV](/BLData/BL_v3_MF1564.csv) [STATA](/BLData/BL_v3_MF1564.dta)
 
 Female population
 
-Excel CSV STATA
+[Excel](/BLData/BL_v3_F1564.xls) [CSV](/BLData/BL_v3_F1564.csv) [STATA](/BLData/BL_v3_F1564.dta)
 
 Male population
 
-Excel CSV STATA
+[Excel](/BLData/BL_v3_M1564.xls) [CSV](/BLData/BL_v3_M1564.csv) [STATA](/BLData/BL_v3_M1564.dta)
