@@ -1,5 +1,5 @@
 ﻿
-# Barro-Lee Educational Attainment Dataset
+## Barro-Lee Educational Attainment Dataset
 
 
 ![](/main_bnw.jpg)
