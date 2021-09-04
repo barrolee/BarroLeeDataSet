@@ -3,6 +3,7 @@
 **Barro-Lee Estimates of Educational Attainment for the Population Aged 15-64 from 1950 to 2015** 
 
 This is the latest updated version of the Barro-Lee dataset reported in [Barro and Lee (2013)](https://doi.org/10.1016/j.jdeveco.2012.10.001).  Dr. Hanol Lee, an associate professor at Southwestern University of Finance and Economics, has collaborated on the project. 
+
 The main aim of this new version is to construct estimates of educational attainment for the population between 15 and 64 years old for the year of 2015. The estimates are disaggregated by gender and by 10-year age group, whereas those in the original dataset were disaggregated by 5-year age group. This is due to the limited availability of disaggregated statistics in the newly complied census/survey data. 
 The methodology to construct the estimates for the year of 2015 is as follows:
 	
