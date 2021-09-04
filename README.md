@@ -22,7 +22,8 @@ Please cite our data as follows: Barro, Robert and Jong-Wha Lee, 2013, ["A New D
  - [2016 4 Feb. Update](UpdateNote/2016Feb.md): Correction of estimates for China.
  - [2018 4 June Update](UpdateNote/2018June.md): Correction of estimates for 10 countries.
 
-**[2021 September  Update](/BLv3.md): Barro-Lee Estimates of Educational Attainment for the Population Aged 15-64 from 1950 to 2015**
+**2021 September  Update: Barro-Lee Estimates of Educational Attainment for the Population Aged 15-64 from 1950 to 2015**
+ - [Barro-Lee Data (1950-2015)](/BLv3.md)
 
 [New data sets](/LongTermData.md) on long-run enrollment ratios and educational attainment are now available!
 
@@ -33,10 +34,12 @@ Please cite our data as follows: Barro, Robert and Jong-Wha Lee, 2013, ["A New D
 	 - [List of Countries](/Aboutdataset/Listcountries.md)
 	 - [Methodology](/Aboutdataset/Methodology.md)
 	 - [History](/Aboutdataset/History.md)
- - Barro-Lee Data
+ - Barro-Lee Data (1950-2010)
 	 - [Download](/Data.md)
 	 - [Notes](/Note.md)
  - [Long-term Data](/LongTermData.md)
+
+
  - [Additional Resources](/Related.md)
  
 © 2021 by Robert J. Barro and Jong-Wha Lee. All rights reserved.
