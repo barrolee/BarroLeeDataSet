@@ -1,5 +1,5 @@
 ﻿
-# Methodology
+### Methodology
 
 We fill in most of missing observations by forward and backward extrapolation of the census/survey observations on attainment. The estimation procedure extrapolates the census/survey observations on attainment by 5-year age groups at five-year intervals fill in missing observations with an appropriate time lag.
 
