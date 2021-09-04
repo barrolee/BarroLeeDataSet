@@ -1,5 +1,5 @@
 ﻿
-# Definition of Variables
+### Definition of Variables
 
 The full dataset contains the following variables:
 
