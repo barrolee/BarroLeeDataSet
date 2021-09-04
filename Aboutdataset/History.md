@@ -1,4 +1,4 @@
-﻿# History
+﻿### History
 
 Many observers have emphasized the crucial importance of human capital, particularly as attained through education, to economic progress (Lucas, 1988, Barro, 1991 and Mankiw, Romer and Weil, 1992). An abundance of well-educated people goes along with a high level of labor productivity. It also implies larger numbers of more skilled workers and greater ability to absorb advanced technology from developed countries. The level and distribution of educational attainment also have impact on social outcomes, such as child mortality, fertility, education of children, and income distribution.
 
