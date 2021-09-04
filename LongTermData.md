@@ -1,6 +1,6 @@
 ﻿
 
-# Long-term Data
+### Long-term Data
 
 **Data Sets on Long-Run Enrollment Ratios and Educational Attainment**
 
