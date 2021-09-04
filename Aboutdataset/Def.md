@@ -6,8 +6,8 @@ The full dataset contains the following variables:
 | Variable| Description  |
 |--|--|
 | BLcode | Barro-Lee Country Code |
-| WBcode| World Bank Country Code| 
-| region_code| Region Code| 
+| WBcode| Three-letter Country Code| 
+| region_code| Region Classification| 
 | country| Country Name| 
 | year| Year| 
 | sex| Sex| 
@@ -24,6 +24,6 @@ The full dataset contains the following variables:
 | yr_sch_pri| Average Years of Primary Schooling Attained| 
 | yr_sch_sec| Average Years of Secondary Schooling Attained| 
 | yr_sch_ter| Average Years of Tertirary Schooling Attained| 
-| pop| Population| 
-| pop15| Total Population over 15| 
-| pop25| Total Population over 25| 
+| pop| Population (1000s)| 
+| pop15| Total Population over 15 (1000s)| 
+| pop25| Total Population over 25 (1000s)| 
