@@ -25,7 +25,7 @@ Please cite our data as follows: Barro, Robert and Jong-Wha Lee, 2013, ["A New D
 **2021 September  Update: Barro-Lee Estimates of Educational Attainment for the Population Aged 15-64 from 1950 to 2015**
  - [Barro-Lee Data (1950-2015)](/BLv3.md)
 
-[New data sets](/LongTermData.md) on long-run enrollment ratios and educational attainment are now available!
+[Data sets on long-run enrollment ratios and educational attainment](/LongTermData.md) are now available.
 
  - About Dataset
 	 - [Introduction](/Aboutdataset/Introduction.md)
