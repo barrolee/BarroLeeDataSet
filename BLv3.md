@@ -16,6 +16,8 @@ We combine these updated estimates for 2015 with the original Barro-Lee data set
 
  - We also collect 7 new censuses on educational attainment of the population for earlier years from the UN Demographic Yearbook. They consist of two countries in 2005 (Egypt and New Zealand), and five countries in 2010 (Argentina, Armenia, Kazakhstan, Latvia, and Saudi Arabia). In addition, we collect 3 new observations for Iceland in 2000, 2005 and 2010 from Eurostat. Accordingly, we revise the original Barro-Lee estimates for these countries through backward extrapolation incorporating these newly available censuses. Information from these censuses is also utilized for the estimation of the figure for 2015 through forward extrapolation, when necessary. 
 
+- We have changed the whole dataset v3.0 by revising the estimates for USA in 2015. The new estimates are based on the US Current Population Survey (CPS) data in 2015. The revised data for the USA is [here](/BLData/BL_v3_USrev.xls). 
+
 **Data**
 
 Download full data set (146 countries) by 10-year age group or aged 15-64 in 10-year interval (1950-2015) in xls, csv, or dta format.
