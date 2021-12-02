@@ -47,6 +47,6 @@ Please cite our data as follows: Barro, Robert and Jong-Wha Lee, 2013, ["A New D
 
 For the copyrights of all the images used in this site, click [here](/ImageCopyright.md).
 
-Dataset Last Updated: 2021 December
+Dataset Last Updated: 2021 September
 
 New Long-term Data Sets: 2016 July 
