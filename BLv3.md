@@ -21,7 +21,7 @@ We combine these updated estimates for 2015 with the original Barro-Lee data set
 
 **Data**
 
-Download full data set (146 countries) by 10-year age group or aged 15-64 in 10-year interval (1950-2015) in xls, csv, or dta format.
+Download full data set (146 countries) for the Population aged 15-64, aged 25-64 or by 10-year age group in 10-year interval (1950-2015) in xls, csv, or dta format.
 
 **Education Attainment for Population Aged 15-64**
 
@@ -36,6 +36,20 @@ Female population
 Male population
 
 [Excel](/BLData/BL_v3_M1564.xls) [CSV](/BLData/BL_v3_M1564.csv) [STATA](/BLData/BL_v3_M1564.dta)
+
+**Education Attainment for Population Aged 25-64**
+
+Total population
+
+[Excel](/BLData/BL_v3_MF2564.xls) [CSV](/BLData/BL_v3_MF2564.csv) [STATA](/BLData/BL_v3_MF2564.dta)
+
+Female population
+
+[Excel](/BLData/BL_v3_F2564.xls) [CSV](/BLData/BL_v3_F2564.csv) [STATA](/BLData/BL_v3_F2564.dta)
+
+Male population
+
+[Excel](/BLData/BL_v3_M2564.xls) [CSV](/BLData/BL_v3_M2564.csv) [STATA](/BLData/BL_v3_M2564.dta)
 
 **Education Attainment by Age Group**
 
